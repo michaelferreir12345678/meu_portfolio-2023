@@ -12,9 +12,8 @@
 
 &nbsp;
 
-### 🔗 Project live
-* [Portfolio Tutorial 2023](https://portfolio-tutorial-2023.vercel.app/)
+
 
 &nbsp;
 
-<p align="center">Developed with 💙 by GBDev</p>
+<p align="center">Developed with 💙 by MFDev</p>
